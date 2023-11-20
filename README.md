@@ -1,5 +1,9 @@
-### Hi there 👋
+# Ani
 
-- 😄 Pronouns: he/his
-- 🙏 Can call me "Ani" (Aw-Nee / অনি)
-- 🔗 [[Website](https://adhikary.net/)] [[LinkedIn](https://linkedin.com/in/tuxboy)]
+| 🌏 [LinkedIn](https://linkedin.com/in/tuxboy) | 🌏 [Website](https://adhikary.net) | 📦 [PyPI](https://pypi.org/user/tuxboy/) | 📦 [npm](https://www.npmjs.com/~tuxboy) |
+|----------------------------------------------|-----------------------------------|-----------------------------------------|----------------------------------------|
+
+## Current Interests
+- CTFs, Cryptography and Web Security
+- LLM Application Security
+- Visual Question Answering
