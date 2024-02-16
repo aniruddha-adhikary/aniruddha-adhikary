@@ -6,4 +6,4 @@
 ## Current Interests
 - CTFs, Cryptography and Web Security
 - LLM Application Security
-- Visual Question Answering
+- Rebuilding Engineering in Government from the ground-up
