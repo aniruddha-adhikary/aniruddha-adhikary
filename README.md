@@ -1,6 +1,6 @@
 # Ani
 
-| 🌏 [LinkedIn](https://linkedin.com/in/tuxboy) | 🌏 [Website](https://adhikary.net) | 📦 [PyPI](https://pypi.org/user/tuxboy/) | 📦 [npm](https://www.npmjs.com/~tuxboy) |
+| 🌏 [LinkedIn](https://linkedin.com/in/tuxboy) | 🌏 [Website](https://adhikary.net) | 📦 [PyPI](https://pypi.org/user/aniruddha-adhikary/) | 📦 [npm](https://www.npmjs.com/~tuxboy) |
 |----------------------------------------------|-----------------------------------|-----------------------------------------|----------------------------------------|
 
 ## Current Interests
